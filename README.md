@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mht-tomomi-zushi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=mht-tomomi-zushi&show_icons=true)](https://github.com/mht-tomomi-zushi "github stats")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mht-tomomi-zushi)](https://github.com/mht-tomomi-zushi "Top Langs")
+[![trophy](https://github-profile-trophy.vercel.app/?username=mht-tomomi-zushi)](https://github.com/mht-tomomi-zushi "trophy")
 
 <!--
 **mht-tomomi-zushi/mht-tomomi-zushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
